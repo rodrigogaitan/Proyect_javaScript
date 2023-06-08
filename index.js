@@ -74,3 +74,16 @@
 //     if (nums === 1) break
 // }
 // console.log(factori) 
+
+
+
+// let nombre = `Rodrigo`
+// let apellido = `Gaitan`
+// let estudiante = nombre + ` ` + apellido
+// let estudianteMayus = estudiante.toUpperCase()
+// let estudianteMinus = estudiante.toLowerCase()
+// let estudianteLengt = estudiante.length
+// let estudianteInicial = estudiante.substring(0,1)
+// let estudianteFinal = apellido.substring(apellido.length -1, apellido.length )
+// let estudianteSpace = estudiante.replace(/ /g, "")
+// let estudianteVerif = estudiante.includes(nombre)
