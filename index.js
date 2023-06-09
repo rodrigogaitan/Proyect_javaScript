@@ -87,3 +87,12 @@
 // let estudianteFinal = apellido.substring(apellido.length -1, apellido.length )
 // let estudianteSpace = estudiante.replace(/ /g, "")
 // let estudianteVerif = estudiante.includes(nombre)
+
+// const altura = 218
+// const alturaF = 2.18
+// const pesoF = 85.5
+// const alturaFRUp = Math.ceil(alturaF)
+// const alturaFRDw = Math.floor(alturaF)
+// const sonIguales = Number.MAX_VALUE + 1 === Number.MAX_VALUE
+
+
