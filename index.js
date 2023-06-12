@@ -96,3 +96,18 @@
 // const sonIguales = Number.MAX_VALUE + 1 === Number.MAX_VALUE
 
 
+// const compras = ['Pan', 'Leche', 'Agua', 'Fideos', 'Arroz']
+// compras.push('Aceite')
+// compras.pop()
+
+// const peliculas = [
+//     {titulo: 'Titanic', año: '2000', director: 'Steven'},
+//     {titulo: 'Divergente', año: '2012', director: 'Jorg'},
+//     {titulo: 'Sonic', año: '2017', director: 'Fredd'}
+// ]
+
+// const des2010 = peliculas.filter(peli => peli.año > 2010)
+// const direc = peliculas.map(dir => dir.director)
+// const tit = peliculas.map(titu => titu.titulo)
+// const peli1 = direc.concat(tit)
+// const peli2 = [...direc, ...tit]
