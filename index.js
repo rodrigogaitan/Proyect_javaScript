@@ -140,3 +140,12 @@
 
 // const personOrden = persons.sort((a, b) => a.edad - b.edad)
 
+// const dia = new Date()
+
+// const nac = new Date(2000, 10, 26)
+
+// const compara = dia > nac
+
+// const diaN = nac.getDate()
+// const mesN = nac.getMonth()
+// const yearN = nac.getFullYear() 
