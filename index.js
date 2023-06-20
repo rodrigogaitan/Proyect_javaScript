@@ -149,3 +149,5 @@
 // const diaN = nac.getDate()
 // const mesN = nac.getMonth()
 // const yearN = nac.getFullYear() 
+
+// const edad = prompt("¿Cuántos años tienes?")
