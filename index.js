@@ -115,3 +115,28 @@
 // const setFamily = new Set ( ['Veronica', 'David', 'Ayrton', 'Morena'])
 // setFamily.add('Veronica')
 // setFamily.add('JavaScript')
+
+// const person = {
+//     nombre: 'Rodrigo',
+//     edad: '22',
+//     isDeveloper : true
+// }
+
+// const personEdad = person.edad
+
+// const persons = [
+//     {...person},
+//     {
+//         nombre: 'Morena',
+//         edad: '18',
+//         isDeveloper : false
+//     },
+//     {
+//         nombre: 'Ayrton',
+//         edad: '32',
+//         isDeveloper : true
+//     }
+// ]
+
+// const personOrden = persons.sort((a, b) => a.edad - b.edad)
+
