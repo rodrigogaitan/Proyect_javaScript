@@ -111,3 +111,7 @@
 // const tit = peliculas.map(titu => titu.titulo)
 // const peli1 = direc.concat(tit)
 // const peli2 = [...direc, ...tit]
+
+// const setFamily = new Set ( ['Veronica', 'David', 'Ayrton', 'Morena'])
+// setFamily.add('Veronica')
+// setFamily.add('JavaScript')
