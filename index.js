@@ -151,3 +151,19 @@
 // const yearN = nac.getFullYear() 
 
 // const edad = prompt("¿Cuántos años tienes?")
+
+// const verdad =  () => {
+//     return true
+// }
+
+// async function dPromesa() {
+//     return setTimeout(() => 
+//         console.log('Hola'), 5000)
+// }
+
+// function* idsPares() {
+//     let id = 0
+//     while(true) {
+//         yield id += 2
+//     }
+// }
